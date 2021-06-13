@@ -9,9 +9,19 @@ An application used to plan your upcoming trips and arrange them according to th
 
 
 
-## Project Screen Shot(s)
+## Project Screen Shots
 
-example
+Home Page: 
+
+[![Screenshot-279.png](https://i.postimg.cc/655w24m0/Screenshot-279.png)](https://postimg.cc/ThSBB1GL)
+
+Adding a trip:
+
+[![Screenshot-281.png](https://i.postimg.cc/k4mPn2SW/Screenshot-281.png)](https://postimg.cc/R3XDdVX0)
+
+List of all trips with filters based on their types:
+
+[![Screenshot-282.png](https://i.postimg.cc/65ms8jRW/Screenshot-282.png)](https://postimg.cc/SJC15GD3)
 
 ## Installation and Setup Instructions
 
