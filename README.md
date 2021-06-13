@@ -11,7 +11,7 @@ An application used to plan your upcoming trips and arrange them according to th
 
 ## Project Screen Shot(s)
 
-
+example
 
 ## Installation and Setup Instructions
 
